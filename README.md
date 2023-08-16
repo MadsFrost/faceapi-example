@@ -1,3 +1,6 @@
+# Project
+In this project we're experimenting with the [face-api.js](https://github.com/justadudewhohacks/face-api.js) package for the browser.
+
 # Installation:
 ## Install dependencies
 > Note: node -v should be v18.16.0 and npm -v 9.5.1
